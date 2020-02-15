@@ -1,0 +1,2 @@
+# Citations Scraper
+A web scraper that parses the [Bournemouth University Creative Technology staff page](https://www.bournemouth.ac.uk/about/our-faculties/faculty-science-technology/our-departments/department-creative-technology/department-creative-technology-staff) page for their different citations.  Made for a coworker.  Subject to break if their page changes, but the approach can be used for learning basic scraping.  Enjoy.
